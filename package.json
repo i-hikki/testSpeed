@@ -1,0 +1,15 @@
+{
+  "name": "testspeed",
+  "version": "1.0.0",
+  "description": "CLI speedtest ringan, berbasis Node.js zero dependency",
+  "bin": {
+    "testspeed": "bin/testspeed.js"
+  },
+  "scripts": {
+    "start": "node bin/testspeed.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "private": false
+}
